@@ -1,2 +1,9 @@
 haha
+<<<<<<< HEAD
 fgfafsdgagsdfg
+=======
+hgjhsjd
+
+
+jhaghsdasdkj
+>>>>>>> master
